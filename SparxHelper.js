@@ -28,3 +28,4 @@
   answerBox.innerHTML = `<strong>Sparx Helper:</strong><br><br>${answers.join('<br>')}`;
   document.body.appendChild(answerBox);
 })();
+
